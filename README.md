@@ -1,6 +1,6 @@
 ## Machine Learning Algorithms Portfolio
 
-This repository provides a concise overview of essential machine learning algorithms commonly used in various data science tasks. The code and data for these examples are located in the ml_portfolio: [ML Datasets](https://github.com/ericyoc/ml_portfolio/tree/main/ml_data](https://github.com/ericyoc/ml_portfolio/tree/main/ml_data)) directory on GitHub.
+This repository provides a concise overview of essential machine learning algorithms commonly used in various data science tasks. The code and data for these examples are located in the ml_portfolio: [ML Datasets](https://github.com/ericyoc/ml_portfolio/tree/main/ml_data) directory on GitHub.
 
 **Supervised Learning Algorithms**
 
