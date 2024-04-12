@@ -2,6 +2,13 @@
 
 This repository provides a concise overview of essential machine learning algorithms commonly used in various data science tasks. The code and data for these examples are located in the ml_portfolio: [ML Datasets](https://github.com/ericyoc/ml_portfolio/tree/main/ml_data) directory on GitHub.
 
+
+## Motivating Article
+Yu, L., Zhao, X., Huang, J., Hu, H., & Liu, B. (2023, December 29). Research on Machine Learning with Algorithms and Development. Journal of Theory and Practice of Engineering Science, 3(12), 7–14. https://doi.org/10.53469/jtpes.2023.03(12).02
+
+
+## Machine Learning Algorithm Types
+
 **Supervised Learning Algorithms**
 
 *Multi-Linear Regression (MLR)**
