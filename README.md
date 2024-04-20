@@ -110,3 +110,6 @@ The selection of an appropriate machine learning algorithm depends on several fa
 *Computational Resources:** Some algorithms require more training time and computational resources than others.
 
 By understanding the strengths and limitations of each algorithm, you can make an informed decision when tackling your specific machine learning problem.
+
+**Disclaimer**
+This repository is intended for educational and research purposes.
